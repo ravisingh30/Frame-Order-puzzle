@@ -1,3 +1,8 @@
 {
-  "type": "module"
+  "name": "frame-order",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "pngjs": "^7.0.0"
+  }
 }
